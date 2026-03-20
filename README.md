@@ -145,7 +145,7 @@ This project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/project-sentinel.git
+git clone https://github.com/shreyavijayjadhav3/project-sentinel.git
 cd project-sentinel
 
 # 2. Install dependencies
